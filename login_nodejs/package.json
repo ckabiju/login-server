@@ -1,0 +1,11 @@
+{
+  "name": "login_nodejs",
+  "version": "1.0.0",
+  "description": "This provides required api's for login functionality. Uses Mongo DB for data storage.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
